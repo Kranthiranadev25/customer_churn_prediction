@@ -5,12 +5,12 @@ A machine learning project designed to predict user churn risk and identify key 
 ##  Project Overview
 Customer churn occurs when customers stop doing business with a company. This project builds a predictive model to identify high-risk customers, allowing businesses to implement proactive retention strategies.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook / VS Code
 
-## 📁 Project Structure
+##  Project Structure
 ```text
 ├── data/               # Raw and processed datasets
 ├── notebooks/          # Exploratory Data Analysis (EDA) & modeling
@@ -19,7 +19,7 @@ Customer churn occurs when customers stop doing business with a company. This pr
 └── requirements.txt    # List of dependencies
 ```
 
-## ⚙️ Workflow Steps
+##  Workflow Steps
 
 ### 1. Data Preprocessing
 - Handled missing values and removed duplicates.
@@ -35,7 +35,7 @@ Customer churn occurs when customers stop doing business with a company. This pr
 - Trained multiple classifiers (e.g., Logistic Regression, Random Forest, XGBoost).
 - Evaluated performance using Accuracy, Precision, Recall, and F1-Score.
 
-## 🚀 Results & Performance
+##  Results & Performance
 *Note: Replace the placeholder values below with your final model metrics.*
 
 
